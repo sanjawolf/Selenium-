@@ -1,0 +1,33 @@
+C:\Users\zoki\source\repos\Selenium Locators Practice\Selenium Locators Practice\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\zoki\source\repos\Selenium Locators Practice\Selenium Locators Practice\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\zoki\source\repos\Selenium Locators Practice\Selenium Locators Practice\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\zoki\source\repos\Selenium Locators Practice\Selenium Locators Practice\bin\Debug\Selenium Locators Practice.dll
+C:\Users\zoki\source\repos\Selenium Locators Practice\Selenium Locators Practice\bin\Debug\Selenium Locators Practice.pdb
+C:\Users\zoki\source\repos\Selenium Locators Practice\Selenium Locators Practice\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\zoki\source\repos\Selenium Locators Practice\Selenium Locators Practice\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\zoki\source\repos\Selenium Locators Practice\Selenium Locators Practice\bin\Debug\WebDriver.dll
+C:\Users\zoki\source\repos\Selenium Locators Practice\Selenium Locators Practice\bin\Debug\WebDriver.Support.dll
+C:\Users\zoki\source\repos\Selenium Locators Practice\Selenium Locators Practice\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\zoki\source\repos\Selenium Locators Practice\Selenium Locators Practice\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\zoki\source\repos\Selenium Locators Practice\Selenium Locators Practice\obj\Debug\Selenium Locators Practice.csprojAssemblyReference.cache
+C:\Users\zoki\source\repos\Selenium Locators Practice\Selenium Locators Practice\obj\Debug\Selenium Locators Practice.csproj.CoreCompileInputs.cache
+C:\Users\zoki\source\repos\Selenium Locators Practice\Selenium Locators Practice\obj\Debug\Selenium Locators Practice.csproj.CopyComplete
+C:\Users\zoki\source\repos\Selenium Locators Practice\Selenium Locators Practice\obj\Debug\Selenium Locators Practice.dll
+C:\Users\zoki\source\repos\Selenium Locators Practice\Selenium Locators Practice\obj\Debug\Selenium Locators Practice.pdb
+F:\QA online kurs\Selenium Locators Practice\Selenium Locators Practice\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\QA online kurs\Selenium Locators Practice\Selenium Locators Practice\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\QA online kurs\Selenium Locators Practice\Selenium Locators Practice\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\QA online kurs\Selenium Locators Practice\Selenium Locators Practice\bin\Debug\Selenium Locators Practice.dll
+F:\QA online kurs\Selenium Locators Practice\Selenium Locators Practice\bin\Debug\Selenium Locators Practice.pdb
+F:\QA online kurs\Selenium Locators Practice\Selenium Locators Practice\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\QA online kurs\Selenium Locators Practice\Selenium Locators Practice\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\QA online kurs\Selenium Locators Practice\Selenium Locators Practice\bin\Debug\WebDriver.dll
+F:\QA online kurs\Selenium Locators Practice\Selenium Locators Practice\bin\Debug\WebDriver.Support.dll
+F:\QA online kurs\Selenium Locators Practice\Selenium Locators Practice\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\QA online kurs\Selenium Locators Practice\Selenium Locators Practice\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\QA online kurs\Selenium Locators Practice\Selenium Locators Practice\obj\Debug\Selenium Locators Practice.csprojAssemblyReference.cache
+F:\QA online kurs\Selenium Locators Practice\Selenium Locators Practice\obj\Debug\Selenium Locators Practice.csproj.CoreCompileInputs.cache
+F:\QA online kurs\Selenium Locators Practice\Selenium Locators Practice\obj\Debug\Selenium Locators Practice.csproj.CopyComplete
+F:\QA online kurs\Selenium Locators Practice\Selenium Locators Practice\obj\Debug\Selenium Locators Practice.dll
+F:\QA online kurs\Selenium Locators Practice\Selenium Locators Practice\obj\Debug\Selenium Locators Practice.pdb
+F:\QA online kurs\Selenium Locators Practice\Selenium Locators Practice\bin\Debug\SeleniumExtras.WaitHelpers.dll
